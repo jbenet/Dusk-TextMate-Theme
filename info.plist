@@ -1,0 +1,10 @@
+{	"contactEmailRot13" = "worarg@pf.fgnasbeq.rqh";
+	contactName = "Juan Batiz-Benet";
+	description = "A blue theme based on Twilight.";
+	name = "Dusk";
+	source = {
+		method = "git";
+		url = "git://github.com/jbenet/Dusk-TextMate-Theme.git";
+	};
+	uuid = "4C69024C-424A-4A52-8071-12E2901A6942";
+}
